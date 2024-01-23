@@ -10,15 +10,15 @@ They can create, read, update and delete any information and the same is set for
 
 <p align="center">
 
-<img src="https://img.shields.io/github/stars/ryanmcnally93/project-three-torquay-sunday-league?style=social" style="max-width: 100%; margin: 0 10px 10px 0;" alt="Stars">
+<img src="https://img.shields.io/github/stars/ryanmcnally93/torquay-sunday-league?style=social" style="max-width: 100%; margin: 0 10px 10px 0;" alt="Stars">
 
-<img src="https://img.shields.io/github/repo-size/ryanmcnally93/project-three-torquay-sunday-league" style="max-width: 100%; height: 20px; margin: 0 0 10px 10px;" alt="Size of repo">
+<img src="https://img.shields.io/github/repo-size/ryanmcnally93/torquay-sunday-league" style="max-width: 100%; height: 20px; margin: 0 0 10px 10px;" alt="Size of repo">
 
 <br>
 
-<img src="https://img.shields.io/github/issues-raw/ryanmcnally93/project-three-torquay-sunday-league" style="max-width: 100%; height: 20px margin-right: 10px;" alt="Open issues">
+<img src="https://img.shields.io/github/issues-raw/ryanmcnally93/torquay-sunday-league" style="max-width: 100%; height: 20px margin-right: 10px;" alt="Open issues">
 
-<img src="https://img.shields.io/github/last-commit/ryanmcnally93/project-three-torquay-sunday-league?color=green&style=for-the-badge" style="max-width: 100%; height: 20px; margin-left: 10px;" alt="GitHub last commit">
+<img src="https://img.shields.io/github/last-commit/ryanmcnally93/torquay-sunday-league?color=green&style=for-the-badge" style="max-width: 100%; height: 20px; margin-left: 10px;" alt="GitHub last commit">
 
 </p>
 
@@ -558,7 +558,7 @@ This roadmap indicates the importance and viability of specific opportunities.
 
 ## Testing
 
-You can view all testing in [this document.](https://github.com/ryanmcnally93/project-three-torquay-sunday-league/blob/main/testing.md)
+You can view all testing in [this document.](https://github.com/ryanmcnally93/torquay-sunday-league/blob/main/testing.md)
 
 ### Fixed Bugs
 
@@ -844,17 +844,17 @@ I struggled with the boxing of the matches and splitting them by competition, as
 
 - The following country flags were obtained on [Flaticon](https://www.flaticon.com/) with the author being "Freepik". They asked to be credited in their website and so I have placed a message on the live scores page.
 
-- [World Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/world.webp)
-- [Europe Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/europe.webp)
-- [South America Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/south-america.webp)
-- [England Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/uk.webp)
-- [Germany Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/germany.webp)
-- [France Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/france.webp)
-- [Italy Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/italy.webp)
-- [Spain Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/spain.webp)
-- [Portugal Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/portugal.webp)
-- [Brazil Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/brazil.webp)
-- [Netherlands Flag](https://raw.githubusercontent.com/ryanmcnally93/project-three-torquay-sunday-league/main/torquay_sunday_league/static/images/netherlands.webp)
+- [World Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/world.webp)
+- [Europe Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/europe.webp)
+- [South America Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/south-america.webp)
+- [England Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/uk.webp)
+- [Germany Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/germany.webp)
+- [France Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/france.webp)
+- [Italy Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/italy.webp)
+- [Spain Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/spain.webp)
+- [Portugal Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/portugal.webp)
+- [Brazil Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/brazil.webp)
+- [Netherlands Flag](https://raw.githubusercontent.com/ryanmcnally93/torquay-sunday-league/main/torquay_sunday_league/static/images/netherlands.webp)
 
 - The champions league logo was obtained from [pngwing](https://www.pngwing.com/en/free-png-nfain) with no author credited.
 
